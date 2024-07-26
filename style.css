@@ -1,0 +1,25 @@
+
+.birinchiqator{
+    background-color: red;
+}
+.birinchiqator th{
+    color: white;
+}
+table{
+    border: 1px solid black;
+}
+caption{
+    background-color: aqua;
+}
+
+.ikki{
+    background-color: yellow;
+}
+.birinchiqator th{
+    width: 50px;
+
+}
+td{
+    height: 80px;
+    width: 100px;
+}
